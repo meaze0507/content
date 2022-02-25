@@ -7,6 +7,7 @@ tags:
   - SVG
   - SVG Attribute
 browser-compat: svg.elements.textPath.method
+spec-urls: https://svgwg.org/svg2-draft/text.html#TextPathElementMethodAttribute
 ---
 {{SVGRef}}{{SeeCompatTable}}
 

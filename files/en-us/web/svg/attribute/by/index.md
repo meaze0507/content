@@ -5,6 +5,7 @@ tags:
   - SVG
   - SVG Attribute
 browser-compat: svg.elements.animate.by
+spec-urls: https://svgwg.org/specs/animations/#ByAttribute
 ---
 {{SVGRef}}
 

@@ -5,6 +5,7 @@ tags:
   - SVG
   - SVG Attribute
 browser-compat: svg.elements.animate.repeatDur
+spec-urls: https://svgwg.org/specs/animations/#RepeatDurAttribute
 ---
 {{SVGRef}}
 

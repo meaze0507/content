@@ -5,6 +5,7 @@ tags:
   - SVG
   - SVG Attribute
 browser-compat: svg.elements.animate.restart
+spec-urls: https://svgwg.org/specs/animations/#RestartAttribute
 ---
 {{SVGRef}}
 

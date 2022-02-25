@@ -5,6 +5,7 @@ tags:
   - SVG
   - SVG Attribute
 browser-compat: svg.attributes.vector-effect
+spec-urls: https://svgwg.org/svg2-draft/coords.html#VectorEffectProperty
 ---
 {{SVGRef}}
 

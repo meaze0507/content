@@ -5,6 +5,9 @@ tags:
   - SVG
   - SVG Attribute
 browser-compat: svg.attributes.presentation.spreadMethod
+spec-urls:
+  - https://svgwg.org/svg2-draft/pservers.html#RadialGradientElementSpreadMethodAttribute
+  - https://svgwg.org/svg2-draft/pservers.html#LinearGradientElementSpreadMethodAttribute
 ---
 {{SVGRef}}
 
